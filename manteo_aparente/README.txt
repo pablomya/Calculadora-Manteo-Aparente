@@ -1,5 +1,7 @@
 Hola, soy Pablo, no sé hacer READ_MEs así que este quedará feo.
 
+Este programa cumple la función de calcular el ángulo de manteo aparente a partir del manteo real y alpha.
+
 La calculadora de manteo aparente utiliza las librerías tkinter, numpy y os.
 Dichas librerías deben ser instaladas para que el programa funcione.
 
