@@ -1,0 +1,14 @@
+Hola, soy Pablo, no sé hacer READ_MEs así que este quedará feo.
+
+La calculadora de manteo aparente utiliza las librerías tkinter, numpy y os.
+Dichas librerías deben ser instaladas para que el programa funcione.
+
+Se pueden instalar facilmente de las formas:
+
+pip install tkinter
+pip install numpy
+pip install os
+
+Eso básicamente.
+
+Dudas a pablo.martinez@alu.ucm.cl o a mi GITHUB https://github.com/pablomya
