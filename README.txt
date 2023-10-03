@@ -9,7 +9,6 @@ Se pueden instalar facilmente de las formas:
 
 pip install tkinter
 pip install numpy
-pip install os
 
 Eso básicamente.
 
