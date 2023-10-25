@@ -12,4 +12,4 @@ pip install numpy
 
 Eso básicamente.
 
-Dudas a pablo.martinez@alu.ucm.cl o a mi GITHUB https://github.com/pablomya
+Dudas a pmy.martinez@gmail.com o a mi GITHUB https://github.com/pablomya
