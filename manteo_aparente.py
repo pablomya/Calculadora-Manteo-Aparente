@@ -31,7 +31,7 @@ def calcular():
 
     # Calculos de numpy
 
-    # Convertir de grados a radianes
+    # Convertir de dg a rd
     mrealrad = np.deg2rad(mreal)
     alpharad = np.deg2rad(alpha)
 
@@ -112,5 +112,5 @@ boton_calcular = tk.Button(ventana, text="Calcular", command=calcular)
 boton_calcular.grid(row=2,column=0)
 boton_calcular.config(width=20,height=2)
 
-# Ejecutar la interfaz gráfica
+# Ejecutar la interfaz
 ventana.mainloop()
